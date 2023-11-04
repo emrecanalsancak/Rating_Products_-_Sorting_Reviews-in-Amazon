@@ -57,14 +57,6 @@ def time_based_weighted_average(dataframe, w1=28, w2=26, w3=24, w4=22):
 
 time_based_weighted_average(df)
 
-###################################################
-# Görev 2: Ürün için Ürün Detay Sayfasında Görüntülenecek 20 Review'i Belirleyiniz.
-###################################################
-
-
-###################################################
-# Adım 1. helpful_no Değişkenini Üretiniz
-###################################################
 
 # There is no helpful_no variable in the dataset, let's generate it over existing variables.
 
